@@ -57,7 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'dotenv-rails', groups: [:development, :test]
 gem 'sqlite3', groups: [:development, :test]
 
-gem 'omniauth-bigcommerce'
-
 # REST API Client
 gem "rest-client"
